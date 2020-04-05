@@ -9,10 +9,12 @@ Recognize fruit with Python, openCV and Google vision AI
 
 ### pip installations
 pip install --upgrade google-cloud-vision
+
 pip install --upgrade opencv-python
 
 
 
+<br>
 ![example](https://github.com/nimadorostkar/human-detection/blob/master/data/images/simple.gif)
 
 
