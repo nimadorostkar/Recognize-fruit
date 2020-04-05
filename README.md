@@ -13,8 +13,6 @@ pip install --upgrade google-cloud-vision
 pip install --upgrade opencv-python
 
 
-
-<br>
 ![example](https://github.com/nimadorostkar/human-detection/blob/master/data/images/simple.gif)
 
 
