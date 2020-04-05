@@ -2,12 +2,12 @@
 Recognize fruit with Python, openCV and Google vision AI
 
 
-# Requirements:
+### Requirements:
 - Python 3
 - GCP account (To use google vision)
 - OpenCV (To scale image only)
 
-# pip installations
+### pip installations
 pip install --upgrade google-cloud-vision
 pip install --upgrade opencv-python
 
